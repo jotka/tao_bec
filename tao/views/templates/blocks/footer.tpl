@@ -4,7 +4,7 @@ use oat\tao\helpers\Template;
 ?>
 <footer class="dark-bar">
     <div class="lft">
-        © 2018
+        © 2018 · <?= __('All rights reserved.') ?>
     </div>
     <div class="rgt">
         <?php $operatedByData = Layout::getOperatedByData();
