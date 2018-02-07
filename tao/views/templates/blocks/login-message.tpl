@@ -1,1 +1,1 @@
-<h1><?=__("Connect to the TAO platform")?></h1>
+<h1>Welcome to BEC Assessement Platform</h1>
