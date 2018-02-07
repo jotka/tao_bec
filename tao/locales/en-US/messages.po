@@ -288,7 +288,7 @@ msgid "Confirm"
 msgstr ""
 
 msgid "Connect to the TAO platform"
-msgstr ""
+msgstr "Welcome to BEC Assessement Platform"
 
 msgid "Continue"
 msgstr ""
