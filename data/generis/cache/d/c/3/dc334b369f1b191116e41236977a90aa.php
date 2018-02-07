@@ -1,0 +1,1 @@
+<?php return array(0 => 'getExposedsByClass',1 => 'setExposed',2 => 'hasAccess',3 => 'getRawParameter');
