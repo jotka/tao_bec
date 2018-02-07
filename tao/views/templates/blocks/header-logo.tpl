@@ -3,7 +3,7 @@ use oat\tao\helpers\Layout;
 /* alpha|beta|sandbox message */
 $releaseMsgData = Layout::getReleaseMsgData();
 if($releaseMsgData['link']):?>
-    <a href="<?=$releaseMsgData['link']?>" title="<?=$releaseMsgData['msg']?>" class="lft" target="_blank">
+    <a href="http://54.37.234.90" title="BEC TAO" class="lft">
     <?php else:?>
         <div class="lft">
         <?php endif;?>
