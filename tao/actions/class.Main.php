@@ -203,7 +203,7 @@ class tao_actions_Main extends tao_actions_CommonModule
         }
 
         $this->setData('form', $renderedForm);
-        $this->setData('title', __("TAO Login"));
+        $this->setData('title', 'Login');
 
         $entryPointService = $this->getServiceManager()->getServiceManager()->get(EntryPointService::SERVICE_ID);
         $this->setData('entryPoints', $entryPointService->getEntryPoints(EntryPointService::OPTION_PRELOGIN));
